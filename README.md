@@ -4,3 +4,4 @@
 2. Then `cd RnRedux`
 3. Do `npm install` to install all npm dependencies
 4. Run `react-native run-android` to compile it to your device
+xxx
